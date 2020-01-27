@@ -8,5 +8,15 @@ namespace SuperheroAcademy
 {
     class VattenHjälte : Hjälte
     {
+
+        public VattenHjälte()
+        {
+            // konstruktor
+            hp = 75;
+            power = 75;
+            knowledge = 100;
+        }
+
+
     }
 }
