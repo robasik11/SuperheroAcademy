@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace SuperheroAcademy
 {
-    class Program
+    class Jordhjälte : Hjälte
     {
-        static void Main(string[] args)
-        {
 
-            Console.WriteLine();
-            Console.ReadKey();
-        }
     }
 }
